@@ -10,4 +10,6 @@ It includes in total of 7 labs
 
 - Lab 6 is the final project for ECE3080. It is the most difficult project among all 7 projects. Skip it if needed
 
+This folder also include some files that are useful for developing
+
 Enjoy😊
