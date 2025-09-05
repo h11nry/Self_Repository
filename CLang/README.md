@@ -4,8 +4,10 @@ This is a Private Repo for myself as I am learning the C Language following the 
 
 Video could be accessed by: https://www.youtube.com/watch?v=xND0t1pr3KY&list=LL
 
-Currently no planning to make it public.
-Just for codes transmission easily.
+~Currently no planning to make it public.
+Just for codes transmission easily.~
+
+Making it public for others to learn. Enjoy
 
 :))
 
