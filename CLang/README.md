@@ -11,7 +11,6 @@ Making it public for others to learn. Enjoy
 
 :))
 
-Such video has been seperated into different chapters. The whole duration is about 7 hours.
 
 ## Timestamps for hands-on project during the video series
 
